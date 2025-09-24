@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:ucs-common:1.0.3.311@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/16102561137d64156b9be5af6eedce29/transformed/jetified-ucs-common-1.0.3.311/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/16102561137d64156b9be5af6eedce29/transformed/jetified-ucs-common-1.0.3.311/jars/libs/r-classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/16102561137d64156b9be5af6eedce29/transformed/jetified-ucs-common-1.0.3.311/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/16102561137d64156b9be5af6eedce29/transformed/jetified-ucs-common-1.0.3.311/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/ucs-common/1.0.3.311/da39a3ee5e6b4b0d3255bfef95601890afd80709/ucs-common-1.0.3.311-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/ucs-common/1.0.3.311/da39a3ee5e6b4b0d3255bfef95601890afd80709/ucs-common-1.0.3.311-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,22 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+
+        maven { url "https://developer.huawei.com/repo/" }
+        maven {
+            url "https://gitlab.com/api/v4/projects/37026421/packages/maven"
+            credentials(HttpHeaderCredentials) {
+                name = "TSRkyHYCEybzt7r0V9wLl286MQp1OmRyOXk1Cw.01.1200f3et3"
+                value = "nearpayPosGitlabReadToken" //will be supported from Nearpay Product Team
+            }
+            authentication {
+                header(HttpHeaderAuthentication)
+            }
+        }
+    }
+}
+rootProject.name = "NearPay"
+include ':app'

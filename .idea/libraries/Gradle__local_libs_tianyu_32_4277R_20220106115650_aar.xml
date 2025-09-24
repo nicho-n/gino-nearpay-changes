@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: local.libs:tianyu:32_4277R_20220106115650@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e13e66111231bd9a953e2b84c402cc3/transformed/jetified-tianyu-32_4277R_20220106115650/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e13e66111231bd9a953e2b84c402cc3/transformed/jetified-tianyu-32_4277R_20220106115650/jars/libs/IPrinterInterface.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e13e66111231bd9a953e2b84c402cc3/transformed/jetified-tianyu-32_4277R_20220106115650/jars/libs/P20L_TYPrinter_V4279.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e13e66111231bd9a953e2b84c402cc3/transformed/jetified-tianyu-32_4277R_20220106115650/jars/libs/PosService_V1.00.58.R4143_20210819093333.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e13e66111231bd9a953e2b84c402cc3/transformed/jetified-tianyu-32_4277R_20220106115650/jars/libs/PosService_V30_R4070_20211209165513.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e13e66111231bd9a953e2b84c402cc3/transformed/jetified-tianyu-32_4277R_20220106115650/jars/libs/TYPrinter_receipt_V3519R_20210826185129.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e13e66111231bd9a953e2b84c402cc3/transformed/jetified-tianyu-32_4277R_20220106115650/jars/libs/TYSecurityPinLib.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e13e66111231bd9a953e2b84c402cc3/transformed/jetified-tianyu-32_4277R_20220106115650/jars/libs/TYSystemUpdateLib.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8e13e66111231bd9a953e2b84c402cc3/transformed/jetified-tianyu-32_4277R_20220106115650/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8e13e66111231bd9a953e2b84c402cc3/transformed/jetified-tianyu-32_4277R_20220106115650/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

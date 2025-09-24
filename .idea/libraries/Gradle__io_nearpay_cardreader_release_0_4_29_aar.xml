@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.nearpay:cardreader-release:0.4.29@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/97b21b04e9ed0d6b5892e9c4f42179b4/transformed/jetified-cardreader-release-0.4.29/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/97b21b04e9ed0d6b5892e9c4f42179b4/transformed/jetified-cardreader-release-0.4.29/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/97b21b04e9ed0d6b5892e9c4f42179b4/transformed/jetified-cardreader-release-0.4.29/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

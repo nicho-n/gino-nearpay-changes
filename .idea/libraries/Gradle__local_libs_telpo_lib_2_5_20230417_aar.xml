@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: local.libs:telpo-lib:2.5.20230417@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/be53b0bae165316dd8e6801a487264b8/transformed/jetified-telpo-lib-2.5.20230417/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/be53b0bae165316dd8e6801a487264b8/transformed/jetified-telpo-lib-2.5.20230417/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/be53b0bae165316dd8e6801a487264b8/transformed/jetified-telpo-lib-2.5.20230417/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

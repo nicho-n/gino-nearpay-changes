@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.nearpay:terminalsdk-release:0.0.104@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/aafc14b634824891fa9cce6a0f093d15/transformed/jetified-terminalsdk-release-0.0.104/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aafc14b634824891fa9cce6a0f093d15/transformed/jetified-terminalsdk-release-0.0.104/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aafc14b634824891fa9cce6a0f093d15/transformed/jetified-terminalsdk-release-0.0.104/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.nearpay:reader-ui-release:0.4.25@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7f34f019480803c4cb023123597f0175/transformed/jetified-reader-ui-release-0.4.25/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7f34f019480803c4cb023123597f0175/transformed/jetified-reader-ui-release-0.4.25/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7f34f019480803c4cb023123597f0175/transformed/jetified-reader-ui-release-0.4.25/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

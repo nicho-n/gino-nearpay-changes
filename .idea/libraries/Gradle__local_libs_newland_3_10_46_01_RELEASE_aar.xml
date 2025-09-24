@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: local.libs:newland:3.10.46_01-RELEASE@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6fa8b92af81068fa0ae4ddedad93a6d2/transformed/jetified-newland-3.10.46_01-RELEASE/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6fa8b92af81068fa0ae4ddedad93a6d2/transformed/jetified-newland-3.10.46_01-RELEASE/jars/libs/MESDK-3.10.46_01-RELEASE.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6fa8b92af81068fa0ae4ddedad93a6d2/transformed/jetified-newland-3.10.46_01-RELEASE/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6fa8b92af81068fa0ae4ddedad93a6d2/transformed/jetified-newland-3.10.46_01-RELEASE/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
