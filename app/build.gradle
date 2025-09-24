@@ -5,6 +5,7 @@ plugins {
 android {
     compileSdk 31
     buildToolsVersion "31.0.0"
+    namespace = "com.app.nearpay"
 
     defaultConfig {
         applicationId "com.precisionpos.nearpay"

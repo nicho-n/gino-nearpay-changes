@@ -15,13 +15,17 @@ import com.precisionpos.nearpay.databinding.ActivityMainBinding;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import io.nearpay.softpos.library.Country;
+import io.nearpay.terminalsdk.SdkEnvironment;
+import io.nearpay.terminalsdk.TerminalSDK;
+import timber.log.Timber;
+
 public class MainActivity extends Activity {
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         try {
             TerminalSDK nearpay = new TerminalSDK.Builder()
                     .activity(this)  // Sets the activity context
